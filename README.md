@@ -4,6 +4,8 @@ App hosted on Heroku (Link) : https://mood-prediction.herokuapp.com/
 
 Documentation Link: https://codelabs-preview.appspot.com/?file_id=1guBB6MdRZQEfGpmeTlHPv2Z4a1uChJaGpvSrs7uUKU4#6
 
+Youtube Video Link: https://youtu.be/jPBI4o8b-Gc
+
 The Model Development Phase:
 
   The Code Folder contains two notebooks:
